@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting better in my field
 - 🌱 I know a bit of Python & Web Development (HTML, CSS, JavaScript)
 - 📚 I'm currently learning Java
-- 📫 How to reach me artur.frazao05@gmail.com
+- 📫 How to reach me ----@gmail.com
 - 😄 Pronouns: he / him
 - ✈️ Fun fact: I'm prob gonna move into Spain soon
 
