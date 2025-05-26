@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Aki
-- 😄 Pronouns: he / him
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>he / him</sup>
 - 📚 What I know some of: Java, Python & Web Development (HTML, CSS, JavaScript, PHP)
+- 🎓 Studying IT
 - 📫 How to reach me: khunakikhun@gmail.com
 - ✈️ Fun fact: I'll prob move to somewhere soon
 
